@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gusta\\Desktop\\Unity Projects\\GameJamPlus\\Exsicata\\Exsicata\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB28A268-A8DD-823F-9B25-10C80A868262}|Assembly-CSharp.csproj|C:\\Users\\gusta\\Desktop\\Unity Projects\\GameJamPlus\\Exsicata\\Exsicata\\assets\\scripts\\playerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB28A268-A8DD-823F-9B25-10C80A868262}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB28A268-A8DD-823F-9B25-10C80A868262}|Assembly-CSharp.csproj|c:\\users\\gusta\\desktop\\unity projects\\gamejamplus\\exsicata\\exsicata\\assets\\scripts\\pottedplant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB28A268-A8DD-823F-9B25-10C80A868262}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pottedplant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB28A268-A8DD-823F-9B25-10C80A868262}|Assembly-CSharp.csproj|C:\\Users\\gusta\\Desktop\\Unity Projects\\GameJamPlus\\Exsicata\\Exsicata\\assets\\scripts\\dialoguemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB28A268-A8DD-823F-9B25-10C80A868262}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dialoguemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB28A268-A8DD-823F-9B25-10C80A868262}|Assembly-CSharp.csproj|C:\\Users\\gusta\\Desktop\\Unity Projects\\GameJamPlus\\Exsicata\\Exsicata\\assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB28A268-A8DD-823F-9B25-10C80A868262}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB28A268-A8DD-823F-9B25-10C80A868262}|Assembly-CSharp.csproj|C:\\Users\\gusta\\Desktop\\Unity Projects\\GameJamPlus\\Exsicata\\Exsicata\\assets\\scripts\\sound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB28A268-A8DD-823F-9B25-10C80A868262}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB28A268-A8DD-823F-9B25-10C80A868262}|Assembly-CSharp.csproj|C:\\Users\\gusta\\Desktop\\Unity Projects\\GameJamPlus\\Exsicata\\Exsicata\\assets\\scripts\\dialoguetrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB28A268-A8DD-823F-9B25-10C80A868262}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dialoguetrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB28A268-A8DD-823F-9B25-10C80A868262}|Assembly-CSharp.csproj|C:\\Users\\gusta\\Desktop\\Unity Projects\\GameJamPlus\\Exsicata\\Exsicata\\assets\\scripts\\dialoguevariables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB28A268-A8DD-823F-9B25-10C80A868262}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dialoguevariables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB28A268-A8DD-823F-9B25-10C80A868262}|Assembly-CSharp.csproj|C:\\Users\\gusta\\Desktop\\Unity Projects\\GameJamPlus\\Exsicata\\Exsicata\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB28A268-A8DD-823F-9B25-10C80A868262}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB28A268-A8DD-823F-9B25-10C80A868262}|Assembly-CSharp.csproj|C:\\Users\\gusta\\Desktop\\Unity Projects\\GameJamPlus\\Exsicata\\Exsicata\\assets\\scripts\\datapersistence\\idatapersistence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB28A268-A8DD-823F-9B25-10C80A868262}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\datapersistence\\idatapersistence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB28A268-A8DD-823F-9B25-10C80A868262}|Assembly-CSharp.csproj|C:\\Users\\gusta\\Desktop\\Unity Projects\\GameJamPlus\\Exsicata\\Exsicata\\assets\\scripts\\datapersistence\\data\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB28A268-A8DD-823F-9B25-10C80A868262}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\datapersistence\\data\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB28A268-A8DD-823F-9B25-10C80A868262}|Assembly-CSharp.csproj|C:\\Users\\gusta\\Desktop\\Unity Projects\\GameJamPlus\\Exsicata\\Exsicata\\assets\\scripts\\groundcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB28A268-A8DD-823F-9B25-10C80A868262}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\groundcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PottedPlant.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\Desktop\\Unity Projects\\GameJamPlus\\Exsicata\\Exsicata\\Assets\\Scripts\\PottedPlant.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PottedPlant.cs",
+              "ToolTip": "C:\\Users\\gusta\\Desktop\\Unity Projects\\GameJamPlus\\Exsicata\\Exsicata\\Assets\\Scripts\\PottedPlant.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PottedPlant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T21:54:28.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DialogueTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\Desktop\\Unity Projects\\GameJamPlus\\Exsicata\\Exsicata\\Assets\\Scripts\\DialogueTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DialogueTrigger.cs",
+              "ToolTip": "C:\\Users\\gusta\\Desktop\\Unity Projects\\GameJamPlus\\Exsicata\\Exsicata\\Assets\\Scripts\\DialogueTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DialogueTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T21:22:15.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GameData.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\Desktop\\Unity Projects\\GameJamPlus\\Exsicata\\Exsicata\\Assets\\Scripts\\DataPersistence\\Data\\GameData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DataPersistence\\Data\\GameData.cs",
+              "ToolTip": "C:\\Users\\gusta\\Desktop\\Unity Projects\\GameJamPlus\\Exsicata\\Exsicata\\Assets\\Scripts\\DataPersistence\\Data\\GameData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DataPersistence\\Data\\GameData.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T21:05:07.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDataPersistence.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\Desktop\\Unity Projects\\GameJamPlus\\Exsicata\\Exsicata\\Assets\\Scripts\\DataPersistence\\IDataPersistence.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DataPersistence\\IDataPersistence.cs",
+              "ToolTip": "C:\\Users\\gusta\\Desktop\\Unity Projects\\GameJamPlus\\Exsicata\\Exsicata\\Assets\\Scripts\\DataPersistence\\IDataPersistence.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DataPersistence\\IDataPersistence.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T20:51:06.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sound.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\Desktop\\Unity Projects\\GameJamPlus\\Exsicata\\Exsicata\\Assets\\Scripts\\Sound.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Sound.cs",
+              "ToolTip": "C:\\Users\\gusta\\Desktop\\Unity Projects\\GameJamPlus\\Exsicata\\Exsicata\\Assets\\Scripts\\Sound.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Sound.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T20:49:19.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\Desktop\\Unity Projects\\GameJamPlus\\Exsicata\\Exsicata\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AudioManager.cs",
+              "ToolTip": "C:\\Users\\gusta\\Desktop\\Unity Projects\\GameJamPlus\\Exsicata\\Exsicata\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AudioManager.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAACUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T20:48:56.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DialogueVariables.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\Desktop\\Unity Projects\\GameJamPlus\\Exsicata\\Exsicata\\Assets\\Scripts\\DialogueVariables.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DialogueVariables.cs",
+              "ToolTip": "C:\\Users\\gusta\\Desktop\\Unity Projects\\GameJamPlus\\Exsicata\\Exsicata\\Assets\\Scripts\\DialogueVariables.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DialogueVariables.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T20:27:30.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DialogueManager.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\Desktop\\Unity Projects\\GameJamPlus\\Exsicata\\Exsicata\\Assets\\Scripts\\DialogueManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DialogueManager.cs",
+              "ToolTip": "C:\\Users\\gusta\\Desktop\\Unity Projects\\GameJamPlus\\Exsicata\\Exsicata\\Assets\\Scripts\\DialogueManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DialogueManager.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAAAIUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T20:26:32.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GroundCheck.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\Desktop\\Unity Projects\\GameJamPlus\\Exsicata\\Exsicata\\Assets\\Scripts\\GroundCheck.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GroundCheck.cs",
+              "ToolTip": "C:\\Users\\gusta\\Desktop\\Unity Projects\\GameJamPlus\\Exsicata\\Exsicata\\Assets\\Scripts\\GroundCheck.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GroundCheck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T18:27:03.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerInput.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\Desktop\\Unity Projects\\GameJamPlus\\Exsicata\\Exsicata\\Assets\\Scripts\\PlayerInput.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerInput.cs",
+              "ToolTip": "C:\\Users\\gusta\\Desktop\\Unity Projects\\GameJamPlus\\Exsicata\\Exsicata\\Assets\\Scripts\\PlayerInput.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerInput.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAADUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T02:18:15.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\Desktop\\Unity Projects\\GameJamPlus\\Exsicata\\Exsicata\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\gusta\\Desktop\\Unity Projects\\GameJamPlus\\Exsicata\\Exsicata\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T02:27:32.729Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
